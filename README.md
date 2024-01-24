@@ -10,7 +10,7 @@
 - [个人的电子笔记软件使用历程](https://xlog.app/api/redirection?characterId=52242&noteId=42)
 - [Notes on zk-SNARK](https://xlog.app/api/redirection?characterId=52242&noteId=41)
 - [创建Electron应用并使用Github Action构建全平台应用](https://xlog.app/api/redirection?characterId=52242&noteId=38)
-- [Depay, Onekey Card, Nobepay 开卡体验](https://xlog.app/api/redirection?characterId=52242&noteId=32)
+- [使用油猴脚本解决 ChatGPT 网页版需要刷新的问题](https://xlog.app/api/redirection?characterId=52242&noteId=31)
 <!-- BLOG-POST-LIST:END -->
 
 
