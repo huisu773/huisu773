@@ -6,6 +6,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Typst 相关资源](https://xlog.app/api/redirection?characterId=52242&noteId=43)
+- [个人的电子笔记软件使用历程](https://xlog.app/api/redirection?characterId=52242&noteId=42)
+- [Notes on zk-SNARK](https://xlog.app/api/redirection?characterId=52242&noteId=41)
+- [创建Electron应用并使用Github Action构建全平台应用](https://xlog.app/api/redirection?characterId=52242&noteId=38)
+- [Depay, Onekey Card, Nobepay 开卡体验](https://xlog.app/api/redirection?characterId=52242&noteId=32)
 <!-- BLOG-POST-LIST:END -->
 
 
